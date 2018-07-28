@@ -37,11 +37,11 @@ Python(파이썬)
 
 Python 을 설치하고 나면 우리는 Python이 알아들을 수 있는 언어로 명령문들을 작성(프로그래밍)할 것이고 그 후엔  Python이 알아서 명령들을 분석하여 우리가 원하는 것을 실행해 줄 것입니다.
 
-```
+<pre><code>
 Python 공부에 도움을 준 사이트:
 
 https://wikidocs.net/book/1
-```
+</code></pre>
 
 내 컴퓨터에 Python 설치하기
 =
