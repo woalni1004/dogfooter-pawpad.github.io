@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PyAutoGui
+title: 2. PyAutoGui
 ---
 
 이번 포스팅에서는 Python 라이브러리 PyAutoGui 를 사용해서 어떻게 마우스를 제어할 수 있는 지 좀 더 자세히 알아보겠습니다.
