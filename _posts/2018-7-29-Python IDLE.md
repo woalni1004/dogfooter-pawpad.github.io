@@ -48,26 +48,36 @@ PyAutoGui는 Python 언어로 우리가 원하는 기능을 누군가가 만들�
 윈도우 콘솔창을 엽니다. 콘솔창 여는 방법을 모르겠다면 구글 검색창으로 이동해서 빨리 알아오세요.
 
 
-
-
+<pre><code>
 
 > pip install pyautogui
+
+</code></pre>
+
 위와 같이 콘솔창에 입력합니다.
 
  'python'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는 배치 파일이 아닙니다.
-위와 같이 메세지가 출력된다면 이전 글 [0. Python 으로 게임 매크로 만들기] 를 참고해서 Python 환경 변수 경로(PATH)를 잘 설정해주세요. 두 개를 설정해야 합니다. python.exe 가 있는 디렉토리와 pip.exe 가 있는 디렉토리.
+위와 같이 메세지가 출력된다면 이전 글 [0. How to install Python](https://dogfooter-master.github.io/How-to-install-Python/) 를 참고해서 Python 환경 변수 경로(PATH)를 잘 설정해주세요. 두 개를 설정해야 합니다. python.exe 가 있는 디렉토리와 pip.exe 가 있는 디렉토리.
 
 설치가 잘되고 있다면 바로 알 수 있습니다. pip가 다운로드 진행과 설치를 퍼센트로 알려주거든요.
 
 이제 PyAutoGui 를 사용할 수 있게 되었습니다. 우리는 덕분에 마우스 제어를 어떻게 구현해야할 지에 대해선 신경쓰지 않아도 됩니다. 단지 우리가 알아야 할 것은 마우스 클릭이 하고싶을 때는,
 
+<pre><code>
+
 pyautogui.click()
+
+</code></pre>
+
 만 하면 된다는 것입니다.
 
 PyAutoGui 설명서:
 
-http://pyautogui.readthedocs.io/en/latest/
+[http://pyautogui.readthedocs.io/en/latest](http://pyautogui.readthedocs.io/en/latest)
+
 PyAutoGui
+=
+
 이제 마우스 클릭을 한번 테스트해봅시다. 여기서 또 하나의 Python 장점이 나옵니다. 내가 원하는 기능 테스트가 용이하다는 것인데 마우스 클릭을 예로 들면 바로 마우스 클릭에 관련된 코드를 작성하여 테스트를 해볼 수 있습니다.
 
 모든 언어는 기본적으로 편집기를 필요로 합니다. 편집기는 개인 취향에 따라 달라집니다. 어떤 사람은 메모장을 좋아하는가 하면 어떤 사람은 복잡한 기능들이 얽혀있는 편집기를 좋아하기도 합니다. Python 에는 IDLE 이라는 기본 편집기가  제공됩니다. 이 IDLE은 편집기 기능말고도 Python 에서 제공하는 라이브러리들에 대한 간단한 테스트를 빠르게 할 수 있도록 해줍니다.
@@ -77,9 +87,11 @@ PyAutoGui
 
 IDLE 를 정상적으로 실행했다면 ">>>" 뒤에 입력이 가능합니다. 아래와 같이 한 줄씩 입력하고 엔터를 쳐줍니다.
 
+```
 >>> import pyautogui
 
 >>> pyautogui.click(640,360)
+```
 
 import 는 Python 에게 "나는 남이 만들어 놓은 걸 갖다 쓰겠다"라고 말하는 겁니다. 그냥 그렇게 이해하면 됩니다. 여기서는 "남이 만들어 놓은 pyautogui 라이브러리를 가져다 쓰겠다"라는 의미입니다.
 
