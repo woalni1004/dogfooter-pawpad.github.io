@@ -48,7 +48,7 @@ Rule of Silence
 Developers should design programs so that they do not print unnecessary output. This rule aims to allow other programs and developers to pick out the information they need from a program's output without having to parse verbosity.
 ```
 
-[위키피디아](https://en.wikipedia.org/wiki/Unix_philosophy)
+[출처 : 위키피디아(유닉스 철학)](https://en.wikipedia.org/wiki/Unix_philosophy)
 
 편집기로 입력한 경우라면 바로 결과를 확인할 수 없습니다. Python 에게 제가 방금 작성한 문서를 던져줘야 결과가 나옵니다. 먼저 방금 작성한 문서를 저장합니다. 저장하는 경로를 반드시 알고 있어야 합니다. 그래야 Python 에게 이 문서가 어디에 있는 지 알려줄 수가 있으니깐요. 아 그리고 저장할 때는 확장자를 가급적이면 .py 라고 붙여주세요. 아무거나 해도 되긴 하지만 "아 이 문서는 Python 프로그램이구나" 라고 사람들에게 알려주는 게 좋지 않겠습니까? 왠만하면 .py 라고 확장자를 만들고 저장해주세요. 저는 test_pyautogui.py 라고 저장했습니다.
 
