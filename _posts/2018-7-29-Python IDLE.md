@@ -24,7 +24,7 @@ Python 마우스 제어
 
 <pre><code>
 
-"python mouse cotrol how to"
+python mouse cotrol how to
 
 </code></pre>
 
