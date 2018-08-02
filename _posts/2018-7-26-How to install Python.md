@@ -37,26 +37,18 @@ Python(파이썬)
 
 Python 을 설치하고 나면 우리는 Python이 알아들을 수 있는 언어로 명령문들을 작성(프로그래밍)할 것이고 그 후엔  Python이 알아서 명령들을 분석하여 우리가 원하는 것을 실행해 줄 것입니다.
 
-<pre><code>
-
 Python 공부에 도움을 준 사이트:
 
-https://wikidocs.net/book/1
-
-</code></pre>
+[https://wikidocs.net/book/1](https://wikidocs.net/book/1)
 
 내 컴퓨터에 Python 설치하기
 =
 
 Python은 공식 홈페이지에서 설치 파일을 다운로드 받아서 설치합니다. Python 에는 현재 글을 작성하는 시점에서 두 가지 버전(Python 2.x.x, Python 3.x.x)이 있는데 두 버전은 다른 언어라고 봐도 무방합니다.  우리는 Python 3을 설치할 것입니다. ( 버전 3뒤에 붙는 X.X는 보통 버그나 새로운 기능이 추가될 때 올라갑니다. 맨 앞이 3이면 다 같은 Python 3 버전입니다.)
 
-<pre><code>
-
 최신 Python 3 버전 설치 파일 다운로드:
 
-https://www.python.org/downloads
-
-</code></pre>
+[https://www.python.org/downloads](https://www.python.org/downloads)
 
 우리는 윈도우용 Python을 설치할 것이기 때문에 윈도우용으로 다운로드 받습니다. 보통은 웹사이트에서 현재 컴퓨터의 OS 를 자동으로 인식해서 윈도우가 선택되어 있을 것입니다.
 
