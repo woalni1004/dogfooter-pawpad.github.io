@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 1. Python IDLE 사용하기
