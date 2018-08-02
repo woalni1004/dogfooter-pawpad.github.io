@@ -72,12 +72,10 @@ Python 설치 및 윈도우 환경 변수 설정하는 방법은 구글에 검�
 
 경로 설정시 중요한 것은 두 가지를 설정해야 한다는 것입니다. 첫 번째는 python.exe 파일이 있는 디렉토리, 두 번째는 첫 번째 디렉토리 바로 아래 Scripts라는 디렉토리입니다. Python을 설치할 때 계속해서 "다음"버튼을 눌렀다면 아마도 아래 경로에 python.exe 파일이 있을 것입니다. "사용자이름"은 각자 컴퓨터마다 다르게 표시될 것입니다. 만약 아래와 같은 경로에 Python 이 없다면 어디에 있는 지 찾아내서 경로를 꼭 잡아주세요. 그렇지 않다면 우리가 Python에게 명령을 내려도 컴퓨터가 Python을 실행시킬 수 없습니다. 왜냐하면 경로를 못찾아서 python.exe가 어디에 있는 지 모르니까요!
 
-<pre><code>
-
+```
 C:\Users\사용자이름\AppData\Local\Programs\Python\Python36-32
 C:\Users\사용자이름\AppData\Local\Programs\Python\Python36-32\Scripts
-
-</code></pre>
+```
 
 Scripts 디렉토리를 경로에 추가하는 이유는 해당 디렉토리에 있는 pip.exe 실행 파일 때문입니다. pip는 Python 을 사용해야만 하는 이유 중 하나이지요. 우리가 필요로 하는 모든 것들을 바로 이 pip가 해결해 줄 것입니다.
 
