@@ -28,9 +28,9 @@ PyAutoGui
 
 아래와 같이 에디터에 입력을 해보세요.
 
-```
+`
 import pyautogui
-```
+`
 
 또는 IDLE 를 실행해서 아래와 같이 입력해보세요.
 
@@ -42,10 +42,9 @@ import pyautogui
 
 IDLE 로 테스트 중이라면 결과를 바로 확인할 수 있습니다. 위 예제처럼 아무런 일도 벌어지지 않았다면 성공한 것입니다.(보통 리눅스 스타일의 컴퓨터에서는 성공하면 조용하고 실패하면 시끄럽게 떠듭니다..)
 
-<pre>
-Rule of Silence
-Developers should design programs so that they do not print unnecessary output. This rule aims to allow other programs and developers to pick out the information they need from a program's output without having to parse verbosity.
-</pre>
+*Rule of Silence*
+
+*Developers should design programs so that they do not print unnecessary output. This rule aims to allow other programs and developers to pick out the information they need from a program's output without having to parse verbosity.*
 
 [출처 : 위키피디아(유닉스 철학)](https://en.wikipedia.org/wiki/Unix_philosophy)
 
