@@ -30,7 +30,6 @@ PyAutoGui
 
 ```
 import pyautogui
-
 ```
 
 또는 IDLE 를 실행해서 아래와 같이 입력해보세요.
