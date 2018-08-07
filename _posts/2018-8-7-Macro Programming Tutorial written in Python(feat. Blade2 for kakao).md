@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3. Macro Programming Tutorial written in Python(feat. Blade2 for kakao)
+title: 3. Macro written in Python(feat. Blade2 for kakao)
 ---
 
 이번 포스팅부터는 실제 서비스 중인 게임들에 적용할 수 있는 매크로 기능들을 Python으로 만들어보겠습니다. 그 과정에서 필요한 다양한 기술들을 하나하나 자세하게 설명해보도록 하겠습니다. 역시 직접 만들어보는게 최고 아니겠습니까.
