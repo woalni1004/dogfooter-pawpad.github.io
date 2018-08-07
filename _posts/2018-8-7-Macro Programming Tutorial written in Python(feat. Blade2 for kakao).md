@@ -18,5 +18,5 @@ title: 3. Macro Programming Tutorial written in Python(feat. Blade2 for kakao)
 * Python !!
 
 
-화면 인식의 기본
+화면 인식
 =
